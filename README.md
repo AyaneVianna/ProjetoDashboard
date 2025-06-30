@@ -1,1 +1,1 @@
-# ProjetoDashboard
+Este projeto consiste na criação de um dashboard interativo de vendas, desenvolvido no Microsoft Excel (compatível também com Google Sheets), com o objetivo principal de transformar dados brutos de assinaturas em informações visuais claras e úteis. A ideia central é permitir uma análise eficaz do desempenho de vendas e auxiliar na tomada de decisões estratégicas baseadas em dados.
